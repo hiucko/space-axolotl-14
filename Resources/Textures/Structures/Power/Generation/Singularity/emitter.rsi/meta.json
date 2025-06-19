@@ -28,6 +28,10 @@
       "directions": 4
     },
     {
+      "name": "emitter2",
+      "directions": 4
+    },
+    {
       "name": "projectile"
     }
   ]

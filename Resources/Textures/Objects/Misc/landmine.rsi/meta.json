@@ -8,6 +8,9 @@
   "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/b764f0e8c3004ad5e7726e7ff27a52a0c893beff/icons/obj/weapons/grenade.dmi, modified by spanky-spanky (GitHub)",
   "states": [
     {
+      "name": "landmine-inactive"
+    },
+    {
       "name": "landmine"
     },
     {
